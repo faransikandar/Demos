@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "spacex-spread"
+version = "0.1.0"
+description = "private market stock price prediction - spacex bid_ask spread"
+authors = ["Faran Sikandar <faran.sikandar@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "*"
+yfinance = "*"
+joblib = "*"
+dagster = "*"
+black = "*"
+ruff = "*"
+isort = "*"
+nbstripout = "*"
+pytest = "*"
+dvc = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

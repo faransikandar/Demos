@@ -1,0 +1,36 @@
+# Data manipulation and analysis
+arviz
+datetime
+numpy
+os
+pandas
+pandas_datareader
+re
+
+# Machine learning and modeling
+pmdarima
+pymc
+scikit-learn
+statsmodels
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Web scraping and APIs
+pytrends
+requests
+yfinance
+
+# Development tools
+black
+dagster
+dvc
+isort
+joblib
+nbstripout
+pytest
+ruff
+streamlit
+typing

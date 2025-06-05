@@ -1,0 +1,7 @@
+stages:
+  load-data:
+    cmd: python src/spread_predictor/data_loader.py
+    deps:
+      - data/spacex_orders.csv
+    outs:
+      - data/processed.csv

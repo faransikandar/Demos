@@ -1,0 +1,45 @@
+# tmp
+**/tmp
+
+# env
+**/env
+.env
+
+# bazel0
+bazel-*
+
+# workspace
+*.code-workspace
+# visual studio
+**/.vs
+**/.vscode
+
+# credentials - AWS
+
+# credentials - GCP
+
+# ignore this entire directory - the files are too large for git!
+**/cache
+**/configs
+
+# ignore any files w/ this extension
+**/.DS_Store
+*.idea/*
+**/*.pyc
+**/__pycache__
+**/*.swp
+**/*.zip
+
+# jupyter notebooks
+**/.ipynb_checkpoints
+
+# logs
+**/*.log
+*.log
+
+# ml ops
+# dask
+**/dask-worker-space
+# W&B
+**/wandb
+
