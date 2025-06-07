@@ -22,7 +22,7 @@ The basic `templates` for other (eventual) project pluses are also included, tho
 - pre-commit hooks for linting, etc
 - Streamlit app for data and model prediction visualization
 
-**Future Focus / To-Do - Engineering**
+**Future Areas for Improvement - Engineering**
 - Streamlit app
 - git pre-committ hooks
 - Docker
@@ -30,12 +30,12 @@ The basic `templates` for other (eventual) project pluses are also included, tho
 - DVC
 - Dagster
 
-**Future Focus / To-Do - Data Science**
+**Future Areas for Improvement - Data Science**
 - Use all the models already in code
 - Feature selection
 - Hyperparameter tuning
 - Whatever you said re: more data / feature engineering / modeling in the `analysis.ipynb` questions section
 
-**Future Focus / To-Do - Public-Facing**
+**Future Areas for Improvement - Public-Facing**
 - Look into PyPI
 - Look into supplementing with FinGPT
