@@ -38,4 +38,4 @@ The basic `templates` for other (eventual) project pluses are also included, tho
 
 **Future Areas for Improvement - Public-Facing**
 - Look into PyPI
-- Look into supplementing with FinGPT
+- Look into supplementing with FinGPT - for additional features, or otherwise?
